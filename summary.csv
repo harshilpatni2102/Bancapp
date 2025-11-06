@@ -1,0 +1,7 @@
+Category,Count,Share_of_API_%,Total_API,Total_Bank
+exact_match,72,90.0,80,80
+amount_mismatch,6,7.5,80,80
+status_mismatch,4,5.0,80,80
+missing_in_bank,2,2.5,80,80
+missing_in_api,2,2.5,80,80
+overall_match_rate,72,90.0,80,80
